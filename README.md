@@ -36,6 +36,12 @@ results/        # Resultados y métricas
 
 Datos abiertos de contratación pública obtenidos desde datos.gov.co (SECOP).
 
+## Carpeta compartida
+
+Archivos pesados, CSVs intermedios y respaldos del proyecto:
+
+[Google Drive del proyecto](https://drive.google.com/drive/folders/1TMOOG8M9lWDdvtOWw25Y2yiF-wNkTa7K?usp=drive_link)
+
 ## Entregables
 
 - Notebook Spark ML
